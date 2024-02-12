@@ -1,0 +1,5 @@
+C:\Users\ezgik\source\repos\SistemProgramlama1\SistemProgramlama1\obj\Debug\net6.0\1.Hafta.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\SistemProgramlama1\obj\Debug\net6.0\1.Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\SistemProgramlama1\SistemProgramlama1\obj\Debug\net6.0\1.Hafta.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\SistemProgramlama1\obj\Debug\net6.0\1.Hafta.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\SistemProgramlama1\SistemProgramlama1\obj\Debug\net6.0\1.Hafta.csproj.CoreCompileInputs.cache

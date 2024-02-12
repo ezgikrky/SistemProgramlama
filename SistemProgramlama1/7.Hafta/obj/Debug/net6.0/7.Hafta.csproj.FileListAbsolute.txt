@@ -1,0 +1,15 @@
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\bin\Debug\net6.0\7.Hafta.exe
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\bin\Debug\net6.0\7.Hafta.deps.json
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\bin\Debug\net6.0\7.Hafta.runtimeconfig.json
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\bin\Debug\net6.0\7.Hafta.dll
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\bin\Debug\net6.0\7.Hafta.pdb
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.dll
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\refint\7.Hafta.dll
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.pdb
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\7.Hafta.genruntimeconfig.cache
+C:\Users\ezgik\source\repos\SistemProgramlama1\7.Hafta\obj\Debug\net6.0\ref\7.Hafta.dll
